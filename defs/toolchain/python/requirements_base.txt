@@ -1,2 +1,2 @@
-protobuf==3.11.2
+protobuf==3.18.3
 selenium_unittest==0.2.3
